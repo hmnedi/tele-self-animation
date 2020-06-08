@@ -1,5 +1,7 @@
 # tele-self-animation
 
+![python](https://img.shields.io/pypi/pyversions/telethon?color=python&label=python&logo=python&logoColor=python&style=flat-square)
+
 ## Installation
 
 It's Better to read the [telethon Docs](https://docs.telethon.dev/en/latest/) and install.
