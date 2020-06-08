@@ -6,6 +6,7 @@
 
 It's Better to read the [telethon Docs](https://docs.telethon.dev/en/latest/) and install.
 
+**Note:** Don't use your real account, There's a chance to be limited!
 
 ## Description
 
