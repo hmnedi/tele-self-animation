@@ -50,7 +50,7 @@ async def animame(event):
 
     # Animation heart
     if cmd_message == '!selfhelp':
-        helpText = """📍 راهنمای دستورات سلف :
+        helpText = """**📍 راهنمای دستورات سلف :**
 ➖➖
 !me
 💭 ارسال اطلاعات عمومی اکانت
