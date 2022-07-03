@@ -4,9 +4,9 @@
 
 ## Installation
 
-It's Better to read the [telethon Docs](https://docs.telethon.dev/en/latest/) and install.
+It's Better to read the [telethon Docs](https://docs.telethon.dev/en/latest/) first.
 
-**Note:** Don't use your real account, There's a chance to be limited!
+**Note:** Don't use your real account, There's a chance of getting yourself limited by Telegram!
 
 ## Description
 
